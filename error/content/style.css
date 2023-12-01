@@ -1,0 +1,48 @@
+body {
+    background-image: url("/error/content/bg.png");
+    background-repeat: repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: 90%;
+    font-family: arial, monospace;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #b71910;
+  }
+  h1 {
+    font-size: 125px;
+    text-align: center;
+    color: white;
+  }
+  h3 {
+    color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
+  h5 {
+    color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+  }
+  .imgcenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+  .border {
+    border-style: dashed;
+    border-color: white;
+  }
+  .center {
+    width: 80%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }

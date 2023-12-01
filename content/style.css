@@ -1,0 +1,233 @@
+/* for all webpages */
+body {
+  width: 90%;
+  font-family: arial, monospace;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #000536;
+}
+header {
+  display: flex;
+  height: 50px;
+  gap: 5px;
+  background-color: rgb(0, 0, 117);
+}
+.button {
+  display: block;
+  background-color: #0012b4;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border: none;
+  transition-duration: 0.2s;
+}
+.button:hover {
+  background-color: #1a2ff0;
+}
+.toppage {
+  display: block;
+  background-color: rgb(0, 0, 160);
+}
+.topborder {
+  border-style: dashed;
+  border-color: white;
+}
+h1 {
+  text-align: center;
+  color: white;
+}
+h3 {
+  color: white;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+h4 {
+  color: white;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+a {
+  text-decoration: none;
+  color: #00b3ff;
+}
+table {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+td {
+  border: 1px solid #dddddd;
+  background-color: #010857;
+  color: #ffffff;
+  text-align: center;
+  padding: 5px;
+}
+th {
+  border: 1px solid #dddddd;
+  background-color: #000d8f;
+  color: #ffffff;
+  text-align: center;
+  padding: 4px;
+}
+tr:nth-child(even) {
+  background-color: #dddddd;
+  text-align: center;
+}
+p {
+  text-align: center;
+  margin: auto;
+}
+footer {
+  display: block;
+  position: relative;
+  min-height: 100%;
+  overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  color: white;
+  background-color: rgb(0, 0, 117);
+}
+a {
+  text-decoration: none;
+  color: #00b3ff;
+}
+.logo {
+  text-align: right;
+}
+
+
+
+/* for "updates" */
+.updatesbutton {
+  display: block;
+  background-color: #9c0909;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border: none;
+  transition-duration: 0.2s;
+}
+.updatesbutton:hover {
+  background-color: #c70c0c;
+}
+.credit {
+  color: white;
+  background-color: #600404;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.creditborder {
+  border-style: dashed;
+  border-color: white;
+}
+li {
+  text-align: left;
+}
+.updatestd {
+  border: 1px solid #dddddd;
+  background-color: #90150a;
+  color: #ffffff;
+  text-align: center;
+  padding: 5px;
+}
+.updatesth {
+  border: 1px solid #dddddd;
+  background-color: #b71910;
+  color: #ffffff;
+  text-align: center;
+  padding: 4px;
+}
+.updatestr {
+  background-color: #dddddd;
+  text-align: center;
+}
+
+/* for "donate" */
+.donatebutton {
+  display: block;
+  background-color: #035000;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border: none;
+  transition-duration: 0.2s;
+}
+.donatebutton:hover {
+  background-color: #047c00;
+}
+.donatetd {
+  border: 1px solid #dddddd;
+  background-color: #106D00;
+  color: #ffffff;
+  text-align: center;
+  padding: 5px;
+}
+.donateth {
+  border: 1px solid #dddddd;
+  background-color: #0C6000;
+  color: #ffffff;
+  text-align: center;
+  padding: 4px;
+}
+.donatetr {
+  background-color: #dddddd;
+  text-align: center;
+}
+
+/* for "requests" */
+.rbutton {
+  display: block;
+  background-color: #502b00;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border: none;
+  transition-duration: 0.2s;
+}
+.rbutton:hover {
+  background-color: #7c3800;
+}
+.rtd {
+  border: 1px solid #dddddd;
+  background-color: #9e3f00;
+  color: #ffffff;
+  text-align: center;
+  padding: 5px;
+}
+.rth {
+  border: 1px solid #dddddd;
+  background-color: #662e00;
+  color: #ffffff;
+  text-align: center;
+  padding: 4px;
+}
+.rtr {
+  background-color: #dddddd;
+  text-align: center;
+}
