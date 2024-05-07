@@ -1,0 +1,82 @@
+/* download page */
+
+body {
+    width: 90%;
+    font-family: arial, monospace;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #000536;
+  }
+  header {
+    display: flex;
+    height: 50px;
+    gap: 5px;
+    background-color: rgb(0, 0, 117);
+  }
+  .button {
+    display: block;
+    background-color: #0012b4;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border: none;
+    transition-duration: 0.2s;
+  }
+  .toppage {
+    display: block;
+    background-color: rgb(0, 0, 160);
+  }
+  .topborder {
+    border-style: dashed;
+    border-color: white;
+  }
+  h1 {
+    text-align: center;
+    color: white;
+  }
+  h3 {
+    color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  
+  }
+  h4 {
+    color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  a {
+    text-decoration: none;
+    color: #00b3ff;
+  }
+  p {
+    text-align: center;
+    margin: auto;
+  }
+  footer {
+    display: block;
+    position: relative;
+    min-height: 100%;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+    background-color: rgb(0, 0, 117);
+  }
+  a {
+    text-decoration: none;
+    color: #00b3ff;
+  }
+  .logo {
+    text-align: right;
+  }
+  
