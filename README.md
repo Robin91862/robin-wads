@@ -1,8 +1,3 @@
-# Gabubu WADs Website's source code
-This repository contains the source code of the wads.gabubu.xyz website.
+# Robin's Wads
 
-This is JUST FOR DEVELOPEMENT and is not meant for regular use!
-
-Any credentials or personal data is not available on this repository.
-
-For any issues found on my website, please use the "Issues" tab.
+Welcome to Robin's Wads! This repository hosts the source code for the website dedicated to showcasing Robin's custom WAD files. While no WAD files are hosted in this repo, you can visit the website for more details, updates, and to explore Robin's creations!
