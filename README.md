@@ -1,3 +1,8 @@
-# Robin's Wads
+# Robin's WADs
 
-Welcome to Robin's Wads! This repository hosts the source code for the website dedicated to showcasing Robin's custom WAD files. You can visit the website for more details and to explore Robin's creations!
+Welcome to Robin's WADs! This repository hosts the source code for the website dedicated to showcasing Robin's custom Wii channels.
+
+# Additional credits
+
+- [**@GabubuAvailable**](https://github.com/GabubuAvailable): For creating the [Gabubu WADs](https://github.com/Gabubu-WADs/wads-website/) website - it's the base of this website.
+- [**@LiliumSnow**](https://github.com/LiliumSnow): For making additional changes to the original.
