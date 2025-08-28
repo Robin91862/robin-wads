@@ -9,7 +9,6 @@ body {
   margin: 0;
 }
 
-/* the website's header */
 header {
   min-height: 70px;
   background-color: #000075;
@@ -17,7 +16,7 @@ header {
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
-  overflow: hidden; /* for float if flex not supported */
+  overflow: hidden;
   padding-left: 15%;
   padding-right: 15%;
 }
@@ -29,7 +28,6 @@ header {
 }
 #logo {
   float: right;
-  /* to deal with flex */
   flex-shrink:0;
   margin:auto 0 auto auto;
 }
@@ -53,7 +51,6 @@ li a {
   text-decoration: none;
 }
 
-/* the website's footer */
 footer {
   min-height: 100px;
   background-color: #000075;
@@ -74,8 +71,6 @@ footer {
   padding-bottom: 20px;
 }
 
-
-/* this makes to show the beautiful WAD cards :D */
 .centergrid {
   display: flex;
   justify-content: center;
@@ -214,7 +209,6 @@ footer {
   background: rgba(0,0,74,1);
 }
 
-/* da pagination */
 .centerpagination {
   display: flex;
   justify-content: center;

@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "thumbnail": "../content/github.png",
+    "wadname": "GitHub Channel",
+    "wadinfotext": "You need to download the app to load the WAD.",
+    "wadtitleid": "XXXX",
+    "wadblocks": 100,
+    "preview": "https://youtube.com/",
+    "download": 1
+  }
+]

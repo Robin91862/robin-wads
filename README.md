@@ -1,8 +1,8 @@
-# Gabubu WADs Website's source code
-This repository contains the source code of the wads.gabubu.xyz website.
+# Robin's WADs
 
-This is JUST FOR DEVELOPEMENT and is not meant for regular use!
+Welcome to Robin's WADs! This repository hosts the source code for the website dedicated to showcasing Robin's custom Wii channels.
 
-Any credentials or personal data is not available on this repository.
+# Additional credits
 
-For any issues found on my website, please use the "Issues" tab.
+- [**@GabubuAvailable**](https://github.com/GabubuAvailable) (original creator): For creating the [Gabubu WADs](https://github.com/Gabubu-WADs/wads-website/) website - it's the base of this website.
+- [**@LiliumSnow**](https://github.com/LiliumSnow): For making additional changes to the original project.
